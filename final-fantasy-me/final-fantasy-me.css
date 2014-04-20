@@ -6,3 +6,10 @@ html, body {
   width: 100%;
   height: 100%;
 }
+
+@font-face {
+  font-family: 'final_fantasy_36_font';
+  src: url('fonts/final_fantasy_36_font.eot');
+  src: local('Final Fantasy 3/6 Font'), 
+  url('fonts/final_fantasy_36_font.ttf') format('truetype');
+}
